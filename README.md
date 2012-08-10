@@ -1,4 +1,4 @@
 findbom
 =======
 
-find files with bom headers
+find bom from a unicode text file using python
